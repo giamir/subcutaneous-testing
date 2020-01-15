@@ -36,7 +36,7 @@ $ yarn test
 All the unit tests should pass.
 
 Now Identify different workflow in the application and for each of them you will write a subcutaneous test.
-When you are ready to start, open the todosJourney.spec.js and start to write your first subcutaneous test.
+When you are ready to start, open the todos.workflows.spec.js and start to write your first subcutaneous test.
 
 If you cannot identify any user workflow here are a couple to get you started:
 
@@ -60,4 +60,4 @@ Second flow (Visibility Filters)
 - user click on all filter
 - user see all todos
 
-You can find an implementation of the subcutaneous tests in the branch named `solution`.
+You can find an implementation of the subcutaneous tests in the branch named `solution` (only with enzyme).
